@@ -56,21 +56,3 @@ Steps to create a branch:
 Now you have two branches, main and your 'BRANCH NAME'. Both these branches have same content.
 
 Next add your changes in your 'BRANCH NAME' branch.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
