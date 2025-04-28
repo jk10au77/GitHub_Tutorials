@@ -56,8 +56,6 @@ Steps to create a branch:
 Now you have two branches, main and your 'BRANCH NAME'. Both these branches have same content.
 
 Next add your changes in your 'BRANCH NAME' branch.
-
-
 ----------------------------------------
 Step3: Make Changes and Commit changes:
 ----------------------------------------
@@ -77,3 +75,5 @@ e. In the "Commit changes" box, write a commit message that describes your chang
 f. Click Commit changes.
 
 These changes will be made only to the README file on your 'BRANCH NAME' branch, so now this branch contains content that's different from main.
+=======
+
