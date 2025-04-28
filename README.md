@@ -104,3 +104,19 @@ Peer review:
 In collaboration work, this is the time you would ask for peer review. This allows your collaborators to comment on, or propose changes to, 
 your pull request before you merge the changes into the main branch.
 
+--------------------------------
+Step5: Merge Your pull request
+--------------------------------
+
+a. This is the final step. Here we will merge our branch content into 'main' brain.
+b. After you merge your pull request, the changes in branch will be incorporated into the main branch.
+c. a pull request may introduce changes to code that conflict with the existing code on main. If there are any conflicts, GitHub will alert you about the conflicting code and prevent merging   
+     until the conflicts are resolved. You can make a commit that resolves the conflicts or use comments in the pull request to discuss the conflicts with your team members.
+
+----------------------------------
+steps to merge your pull request:
+----------------------------------
+a. At the bottom of the pull request, click Merge pull request to merge the changes into main.
+b. Click Confirm merge. You will receive a message that the request was successfully merged and the request was closed.
+c. Click Delete branch. Now that your pull request is merged and your changes are on main, you can safely delete the readme-edits branch.
+d. click code tab of your repository to see your published changes on the 'main' branch
