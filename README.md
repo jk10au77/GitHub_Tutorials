@@ -33,3 +33,44 @@ C. In the "Description" box, type a short description. For example, type "This r
 d. Select whether your repository will be Public or Private.
 e. Select Add a README file.
 f. Click Create repository.
+
+----------------------
+Step2: Create Branch:
+----------------------
+
+a. Uses: Branching lets us to have different versions of repository at the same time.
+b. By default, Every repository has one brance called main 
+c. We can create additional branches off of the main in the repository.
+d. Using branchning, we add new features to the project without changing the main source code. To reflect those new 
+   changes in main source code, we need to merge our new features in the brach into the main source code.
+e. Creating a branch means you are creating a copy or snapshot of the source code in the main branch.
+f. If someone else is making changes to the main branch while you were working on your branch, you could pull in those changes.
+
+--------------------------
+Steps to create a branch:
+--------------------------
+1. Click the 'Code' tab of your hello-world repository.
+2. Above the file list, click the dropdown menu that says main.
+3. Type a branch name, say YOUR 'BRANCH_NAME' into the text box.
+
+Now you have two branches, main and your 'BRANCH NAME'. Both these branches have same content.
+
+Next add your changes in your 'BRANCH NAME' branch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
