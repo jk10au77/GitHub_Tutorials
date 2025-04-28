@@ -58,19 +58,22 @@ Now you have two branches, main and your 'BRANCH NAME'. Both these branches have
 Next add your changes in your 'BRANCH NAME' branch.
 
 
+----------------------------------------
+Step3: Make Changes and Commit changes:
+----------------------------------------
+a. After creating a new branch, this new branch contains a copy of the 'main' branch content. 
+b. Now we add our changes, Then save ou change. Saved changes are called commits.
+c. Each commit has associated commmit messages, which explains the description of changes. Commit messages capture the history of 
+   your changes so that other ontributors can understand what you’ve done and why.
 
+-----------------------------------
+Steps to make and commit changes:
+-----------------------------------
+a. Under your 'BRANCH NAME', click the README.md file.
+B. To edit the file
+C. In the editor, add your changes.
+d. Click Commit changes.
+e. In the "Commit changes" box, write a commit message that describes your changes.
+f. Click Commit changes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+These changes will be made only to the README file on your 'BRANCH NAME' branch, so now this branch contains content that's different from main.
