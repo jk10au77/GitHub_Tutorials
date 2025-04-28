@@ -75,5 +75,32 @@ e. In the "Commit changes" box, write a commit message that describes your chang
 f. Click Commit changes.
 
 These changes will be made only to the README file on your 'BRANCH NAME' branch, so now this branch contains content that's different from main.
-=======
+
+-------------------------------
+Step4: Open a Pull Request:
+-------------------------------
+a. Now you have made all the changes in a branch off of 'main'. Now create a 'Pull' request.
+b. Pull requests are the heart of collaboration on the GitHub.
+c. When you open a 'Pull' request, you are doing the following tasks
+    1. You are proposing changes and requesting your peers to review and pull in your contributions 
+    2. Merge them into their branch.
+d. Pull requests show diffs or differences of the content from both branches. The changes, additions, and subtractions are shown in different colors.
+e. You can open a pull request as soon as you make a commit 
+
+-----------------------------
+Steps to open Pull request:
+-----------------------------
+1. Click the Pull requests tab of your repository.
+2. Click New pull request.
+3. see the content changes between your 'BRANCH NAME' and the 'main' branch
+4. Look over your changes in the diffs on the Compare page, make sure they're what you want to submit.
+5. Click Create pull request.
+6. Give your pull request a title and write a brief description of your changes. You can include emojis and drag and drop images and gifs.
+7. Click Create pull request.
+
+--------------
+Peer review:
+--------------
+In collaboration work, this is the time you would ask for peer review. This allows your collaborators to comment on, or propose changes to, 
+your pull request before you merge the changes into the main branch.
 
